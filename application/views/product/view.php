@@ -5,7 +5,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>Edit Product</title>
+	<title>All Products</title>
 
 </head>
 <body>
@@ -18,7 +18,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				<?php echo $product_item['product_name'] ?>
 			</h3>
 			<div class="product_detail">
-				<?php echo $product_item['text'] ?>
+				<?php echo $product_item['product_detail'] ?>
 			</div>
 		</div>
 

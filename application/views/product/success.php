@@ -9,9 +9,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 </head>
 <body>
-	<div class="container">
-		<h2>Edite your product here!</h2>
-	</div>
-
+<h2>Success!!</h2>
 </body>
 </html>
